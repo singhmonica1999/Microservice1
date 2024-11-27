@@ -343,4 +343,4 @@ Tracks registered users of the system.
 
 Thanks to the following contributors for their efforts on this project:
 
-[![Contributors](https://contrib.rocks/image?repo=[singhmonica1999](https://github.com/singhmonica1999)/medianest)](https://github.com/[singhmonica1999](https://github.com/singhmonica1999)/medianest/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=[singhmonica1999](https://github.com/singhmonica1999)/medianest)](https://github.com/[singhmonica1999](https://github.com/singhmonica1999/medianest/graphs/contributors)
