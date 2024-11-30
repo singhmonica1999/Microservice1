@@ -41,7 +41,7 @@ jobs:
           username: ${{ secrets.REMOTE_USER }}
           port: 22
           key: ${{ secrets.REMOTE_SSH_KEY }}
-          source: target/*.jar
+          source: target/${{ env.app_name }}-${{ env.app_version }}.jar
           target: "~/jars"
           rm: true
       - name: SSH into Remote Server and Deploy
